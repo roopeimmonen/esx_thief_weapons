@@ -26,6 +26,7 @@ Default steal key is "H"
 start esx_thief_weapons
 ```
 
-:man_mechanic: Want back to english?
-1. Delete current en.lua (in esx_thief_weapons\locales)
-2. Rename en - OLD.lua to en.lua & You have a english translation
+:man_mechanic: Change language
+1. Open config.lua -file
+2. Search "Config.Locale = 'fi'"
+3. Change "fi" to "en" (like this (Config.Locale = 'en'))
