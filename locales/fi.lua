@@ -1,0 +1,23 @@
+Locales['fi'] = {
+	['no_hands_up']         = 'Kohteella ei ole kädet ylhäällä!',
+    ['cash']                = 'Käteinen',
+    ['black_money']         = 'Likainen raha',
+    ['inventory']           = 'Tavaraluettelo',
+    ['target_inventory']    = 'Tavarat',
+    ['steal']               = 'Varasta',
+    ['return']              = 'Palauta',
+    ['action_choice']       = 'Valitse toiminto',
+    ['amount']              = 'Määrä',
+    ['too_far']             = 'Sinä olet liian kaukana!',
+    ['no_players_nearby']   = 'Ei pelaajia lähettyvillä',
+    ['ex_inv_lim_source']   = 'Sinulla ei ole tilaa repussasi',
+    ['ex_inv_lim_target']   = 'kohteella ei ole tilaa repussa',
+    ['you_stole']           = 'Sinä varastit',
+    ['from_your_target']    = 'Sinulta vastettiin',
+    ['someone_stole']       = 'joku varasti sinulta',
+    ['invalid_quantity']    = 'Epäkelvollinen määrä',
+    ['gun_label']           = 'Aseet',
+    ['not_armed']           = 'Sinä et ole aseistettu',
+	['of_black_money']      = 'Likaista rahaa',
+}
+    --SUOMMENNUS
