@@ -5,7 +5,7 @@ Rework from the original esx_thief.
 
 You can steal someone by pointing at them with your gun. The target has to hands up!
 
-:tools: Requirements
+🔧 Requirements
 - ESX Server
 
 :white_check_mark: Features
